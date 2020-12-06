@@ -1,0 +1,4 @@
+enum LiveSelector{
+  NICONICO,
+  TWICAS
+}
